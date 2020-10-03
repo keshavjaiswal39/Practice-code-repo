@@ -1,4 +1,3 @@
-//package Practice-code-repo.java;
 import java.util.*;
 public class SelectionSort {
     public static void main(String[] args) {
